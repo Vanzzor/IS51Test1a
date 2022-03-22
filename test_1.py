@@ -42,3 +42,22 @@ if var1 < var2
 
  
 """
+from asyncore import loop
+
+
+def option1():
+    return 100*10
+def option2():
+    amount=1
+    list1=[]
+    for i in range(0, 10)
+    list1.append(amount)
+    amount*=2
+    """sum= sum of all items in loop"""
+
+    def main():
+        pass
+    var1=option1()
+
+    print(var1)
+
